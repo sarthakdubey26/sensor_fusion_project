@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+*.bag
+*.csv
+*.jpg
+*.png
+build/
+install/
+log/
+.vscode/
